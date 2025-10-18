@@ -1,5 +1,1 @@
-fastapi
-uvicorn[standard]
-confluent-kafka
-prometheus-client
-pydantic
+requests
