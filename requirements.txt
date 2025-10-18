@@ -1,3 +1,5 @@
+fastapi
+uvicorn[standard]
 confluent-kafka
-pymongo
-python-dotenv
+prometheus-client
+pydantic
